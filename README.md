@@ -1,10 +1,5 @@
 🌾 Rice Plant Disease Detection using CNN
 
-
-
-
-
-
 📌 Project Overview
 
 This project detects rice plant diseases using Convolutional Neural Networks (CNN). The system analyzes leaf images and identifies diseases, helping farmers take quick action.
